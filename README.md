@@ -13,7 +13,7 @@
 
 - 🏢 I'm a EECE Engineer 
 - 🤖 As an EECE student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with PCB Design, Electronics or anything related to My feild.
+- 💬 Ask me about my experience with PCB Design, Analog Electronics, Digital Electronics or anything related to My feild.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my LinkedIn at https://www.linkedin.com/in/ahmed-h-abdelhalim-87a016321 to see some of the projects I've worked on.
 
